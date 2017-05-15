@@ -1,7 +1,7 @@
-#Machine Learing Notes
+# Machine Learing Notes
 
-##Intro  Week 1
-###1.1 Definition###
+## Intro  Week 1
+### 1.1 Definition###
 Older and informal:   
 > The field of study that gives computers the ability to learn without being explicitly programmed.  --Arthur Samuel  
 
