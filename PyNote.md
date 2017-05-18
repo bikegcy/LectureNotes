@@ -263,9 +263,11 @@ print namesSet
 ```
 
 <center>
+
 ![](https://github.com/bikegcy/MK_Pic/blob/master/python3.2.png?raw=true)
 
 ![](https://github.com/bikegcy/MK_Pic/blob/master/python3.2.2.png?raw=true)
+
 </center>
 
 
