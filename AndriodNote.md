@@ -63,10 +63,12 @@ android:layout_height="match_parent"
 
 ### Padding and Margin
 
-padding and layout_margin are two very similar attributes. Both determine the space around a View. The difference is that **padding** determines space **within** the boundaries of the view, and **layout_margin** determines the space **outside** the boundaries of the view**.
+padding and layout_margin are two very similar attributes. Both determine the space around a View. The difference is that **padding** determines space **within** the boundaries of the view, and **layout_margin** determines the space **outside** the boundaries of the **view**.
 
 <center>
+
 ![](https://github.com/bikegcy/MK_Pic/blob/master/padding-margin.png?raw=true)
+
 </center>
 
 ### How do the XML Layouts relate to the Java Activites?
