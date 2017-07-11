@@ -5,3 +5,5 @@ Online lecture notes
 
 >Using python in data mining
 
+>TensorFlow official tutorial
+
