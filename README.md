@@ -1,7 +1,7 @@
 # LectureNotes
 Online lecture notes
 
->Machine Learing  
+>Machine Learning  
 
 >Using python in data mining
 
