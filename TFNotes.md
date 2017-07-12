@@ -25,5 +25,11 @@ node1 = tf.constant(3.0, dtype=tf.float32)
 node2 = tf.constant(4.0) # also tf.float32 implicitly
 print(node1, node2)
 # tf.constant is one kind of node
+# output: Tensor("Const:0", shape=(), dtype=float32) Tensor("Const_1:0", shape=(), dtype=float32)
+
+# To evaluate the value, to run in sess
+sess = tf.Session()
+print(sess.run([node1, node2]))
+# output: [3.0, 4.0]
 ```
 
