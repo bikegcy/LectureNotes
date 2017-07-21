@@ -252,6 +252,19 @@ ainfo.get('Mayun')
 //没有则返回none，有则返回value
 ```
 
+
+```python
+import clooections
+# collections.defaultdict按value排序
+from collections import defaultdict
+d = defaultdict(int)
+for w in text.split():
+  d[w] += 1
+for w in sorted(d, key=d.get, reverse=True):
+  print w, d[w]
+```
+
+
 ### 3.2 集合
 
 ```python
