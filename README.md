@@ -7,3 +7,5 @@ Online lecture notes
 
 >TensorFlow official tutorial
 
+>Python tutorial
+
